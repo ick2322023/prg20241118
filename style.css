@@ -1,8 +1,7 @@
 
 body {
-    font-size: large;
-    font-weight: bold;
-    color: blue;
+    font-weight: bolder;
+    font-family: system-ui;
 }
 
 h1 {
